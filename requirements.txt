@@ -1,0 +1,6 @@
+torch
+torchvision
+pytorch-lightning
+transformers
+https://drive.google.com/file/d/1AVzltSVseiKRexrmyJNdRY6SDkDL5Faj/view
+https://huggingface.co/AliGhiasvand86/10-animals-classification/tree/main
